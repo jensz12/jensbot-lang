@@ -297,9 +297,9 @@ $.lang.register('init.mod.toggle.perm.msg.on', 'No permission messages have been
 $.lang.register('init.toggle.cooldown.msg.on', 'The cooldown message has been enabled.');
 $.lang.register('init.toggle.cooldown.msg.off', 'The cooldown message has been disabled.');
 $.lang.register('init.cooldown.msg', 'command !$1 is still on cooldown. ($2 seconds)');
-$.lang.register('lang.curlang', 'The current language is $1!');
-$.lang.register('lang.lang.404', 'That language file does not exist!');
-$.lang.register('lang.lang.changed', 'Changed language to $1!');
+$.lang.register('lang.curlang', 'Det nuværende sprog er $1!');
+$.lang.register('lang.lang.404', 'Det sprog findes ikke!');
+$.lang.register('lang.lang.changed', 'Ændrede sproget til $1!');
 $.lang.register('lang.response.action.disabled', 'Chat output will be normal text. (without /me)');
 $.lang.register('lang.response.action.enabled', 'Chat output wil be prepended with "/me".');
 $.lang.register('lang.response.disabled', 'Responses are now disabled! To enable them, use !mute');
@@ -315,8 +315,8 @@ $.lang.register('logging.rotatedays.usage', 'usage: !log rotatedays [days]. 0 to
 $.lang.register('logging.rotatedays.success', 'Logs will rotate every $1 days.');
 $.lang.register('logging.rotatedays.success.off', 'Logs will not be rotated');
 $.lang.register('permissions.current.listtoolong', 'There are over $1 to list, I suggest checking the viewerslist in the Twitch chat.');
-$.lang.register('permissions.current.mods', 'Mods in channel: $1');
-$.lang.register('permissions.current.users', 'Users in channel: $1');
+$.lang.register('permissions.current.mods', 'Mods på streamen: $1');
+$.lang.register('permissions.current.users', 'Brugere i kanalen: $1');
 $.lang.register('permissions.group.self.current', 'You currently have $1 permissions.');
 $.lang.register('permissions.group.other.current', '$1 currently has $2 permissions.');
 $.lang.register('permissions.group.set.error.abovegroup', 'You must have higher permissions than the person you are trying to promote!');
@@ -331,7 +331,7 @@ $.lang.register('permissions.grouppoints.set.online', 'Set permission $1 to gain
 $.lang.register('permissions.grouppoints.set.offline', 'Set permission $1 to gain $2 $3 offline.');
 $.lang.register('permissions.grouppoints.set.sub.error', 'You cannot promote anyone to Subscriber, this status is from Twitch or GameWisp.');
 $.lang.register('timesystem.uptime.offline', '$1 er i øjeblikket offline.');
-$.lang.register('timesystem.uptime', '$1 Har været live i $2!');
+$.lang.register('timesystem.uptime', '$1 har været live i $2!');
 $.lang.register('timesystem.add.error.negative', 'You can not give negative time.');
 $.lang.register('timesystem.add.success', 'Sent $1 to $2. New balance is $3.');
 $.lang.register('timesystem.add.usage', 'Usage: "!time give [name] [amount]"');
