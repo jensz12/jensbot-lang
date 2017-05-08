@@ -37,8 +37,8 @@ $.lang.register('ytplayer.command.jumptosong.failed', 'Cannot find song at posit
 $.lang.register('ytplayer.command.songrequest.usage', 'Sådan bruger du den: !songrequest [YouTube link]');
 $.lang.register('ytplayer.command.songrequest.success', 'Din sang "$1" er blevet tilføjet til køen. Den er nummer $2');
 $.lang.register('ytplayer.command.songrequest.failed', 'Failed adding song to queue: $1');
-$.lang.register('ytplayer.command.previoussong', 'Previous song was [$1] requested by $2 from $3');
-$.lang.register('ytplayer.command.previoussong.404', 'There is not a previous song to report');
+$.lang.register('ytplayer.command.previoussong', 'Den forrige sang var [$1] ønsket af $2');
+$.lang.register('ytplayer.command.previoussong.404', 'Der var ingen forrige sang');
 $.lang.register('ytplayer.command.currentsong', 'Nuværende sang er [$1] ønsket af $2');
 $.lang.register('ytplayer.command.currentsong.404', 'There is not a curent song');
 $.lang.register('ytplayer.command.delrequest.success', 'Removed song with ID [$1] and title of [$2] from song requests.');
