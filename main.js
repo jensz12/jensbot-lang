@@ -360,7 +360,7 @@ $.lang.register('timesystem.autolevel.chat.enabled', 'Auto level chat announceme
 $.lang.register('timesystem.autolevel.chat.disabled', 'Auto level chat announcements are now disabled.');
 $.lang.register('get.long.time.string.short', ' $1 dage, $2 timer og $3 minutter.');
 $.lang.register('get.long.time.string.long', '$1 måneder, $2 timer og $3 minutter.');
-$.lang.register('user.time.string.hours', ' $1 timer og $2 minutter');
+$.lang.register('user.time.string.hours', ' $1 time og $2 minutter');
 $.lang.register('user.time.string.minutes', ' $1 minutter');
 $.lang.register('whisper.whispers.disabled', '[Whisper Mode] has been disabled.');
 $.lang.register('whisper.whispers.enabled', '[Whisper Mode] has been enabled.');
