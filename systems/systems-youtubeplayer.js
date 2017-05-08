@@ -1,8 +1,8 @@
-$.lang.register('ytplayer.client.404', 'The YouTube Player is not connected!');
+$.lang.register('ytplayer.client.404', 'YouTube er ikke forbundet!');
 $.lang.register('ytplayer.playlist.404', 'Cannot find playlist [$1]');
 $.lang.register('ytplayer.announce.nextsong', '[\u266B] Spiller nu [$1] Ønsket af: $2');
-$.lang.register('ytplayer.console.client.connected', '[\u266B] YouTube Player is connected! [\u266B]');
-$.lang.register('ytplayer.console.client.disconnected', '[\u266B] YouTube Player is disconnected! [\u266B]');
+$.lang.register('ytplayer.console.client.connected', '[\u266B] YouTube er forbundet! [\u266B]');
+$.lang.register('ytplayer.console.client.disconnected', '[\u266B] YouTube Player er ikke forbundet! [\u266B]');
 $.lang.register('ytplayer.songrequests.enabled', '[\u266B] Song requests er slået til! [\u266B]');
 $.lang.register('ytplayer.songrequests.disabled', '[\u266B] Song requests er slået fra! [\u266B]');
 $.lang.register('ytplayer.command.volume.get', 'Current YouTube Player Volume: $1');
