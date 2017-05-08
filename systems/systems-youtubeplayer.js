@@ -59,7 +59,7 @@ $.lang.register('ytplayer.requestsong.error.maxrequests', 'exceeds maximum concu
 $.lang.register('ytplayer.requestsong.error.disabled', 'song requests are disabled');
 $.lang.register('ytplayer.requestsong.error.yterror', 'YouTube fejl ($1)');
 $.lang.register('ytplayer.requestsong.error.exists', 'sangen er allerede i køen');
-$.lang.register('ytplayer.requestsong.error.maxlength', 'sangens længde er $1 pg overstiger dermed den maksimale længde');
+$.lang.register('ytplayer.requestsong.error.maxlength', 'sangens længde er $1 og overstiger dermed den maksimale længde');
 $.lang.register('ytplayer.command.importpl.file.start', 'Import has started, please wait...');
 $.lang.register('ytplayer.command.importpl.file.success', 'Import Complete! Successfully imported $1 songs and failed to import $2 songs from $3 to playlist $4');
 $.lang.register('ytplayer.command.importpl.file.success.plerror', 'Import Complete! Successfully imported $1 songs and failed to import $2 songs from $3 to playlist $4. Skipped $5 playlist(s).');
