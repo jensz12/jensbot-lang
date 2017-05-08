@@ -1,10 +1,10 @@
 $.lang.register('ytplayer.client.404', 'The YouTube Player is not connected!');
 $.lang.register('ytplayer.playlist.404', 'Cannot find playlist [$1]');
-$.lang.register('ytplayer.announce.nextsong', '[\u266B] Now Playing [$1] Requester: $2');
+$.lang.register('ytplayer.announce.nextsong', '[\u266B] Spiller nu [$1] Ønsket af: $2');
 $.lang.register('ytplayer.console.client.connected', '[\u266B] YouTube Player is connected! [\u266B]');
 $.lang.register('ytplayer.console.client.disconnected', '[\u266B] YouTube Player is disconnected! [\u266B]');
-$.lang.register('ytplayer.songrequests.enabled', '[\u266B] Song requests are enabled! [\u266B]');
-$.lang.register('ytplayer.songrequests.disabled', '[\u266B] Song requests have been disabled! [\u266B]');
+$.lang.register('ytplayer.songrequests.enabled', '[\u266B] Song requests er slået til! [\u266B]');
+$.lang.register('ytplayer.songrequests.disabled', '[\u266B] Song requests er slået fra! [\u266B]');
 $.lang.register('ytplayer.command.volume.get', 'Current YouTube Player Volume: $1');
 $.lang.register('ytplayer.command.volume.set', 'Set YouTube Player Volume: $1');
 $.lang.register('ytplayer.command.ytp.togglestealrefund.enable', 'YouTube Player stolen songs will be refunded to users.');
@@ -34,12 +34,12 @@ $.lang.register('ytplayer.command.stealsong.other.success', '$1 copied the curre
 $.lang.register('ytplayer.command.stealsong.refund', '$1 received a refund of $2 $3 on their song request!');
 $.lang.register('ytplayer.command.stealsong.duplicate', 'Song is already in the playlist!');
 $.lang.register('ytplayer.command.jumptosong.failed', 'Cannot find song at position $1 in playlist.');
-$.lang.register('ytplayer.command.songrequest.usage', 'usage: !songrequest [YouTube ID | YouTube link | search string]');
-$.lang.register('ytplayer.command.songrequest.success', 'Your song "$1" has been added to the queue (Position: $2 ID: $3)');
+$.lang.register('ytplayer.command.songrequest.usage', 'Sådan bruger du den: !songrequest [YouTube link]');
+$.lang.register('ytplayer.command.songrequest.success', 'Din sang "$1" er blevet tilføjet til køen (Den er nummer: $2)');
 $.lang.register('ytplayer.command.songrequest.failed', 'Failed adding song to queue: $1');
 $.lang.register('ytplayer.command.previoussong', 'Previous song was [$1] requested by $2 from $3');
 $.lang.register('ytplayer.command.previoussong.404', 'There is not a previous song to report');
-$.lang.register('ytplayer.command.currentsong', 'Current song is [$1] requested by $2 from $3');
+$.lang.register('ytplayer.command.currentsong', 'Nuværende sang er [$1] ønsket af $2');
 $.lang.register('ytplayer.command.currentsong.404', 'There is not a curent song');
 $.lang.register('ytplayer.command.delrequest.success', 'Removed song with ID [$1] and title of [$2] from song requests.');
 $.lang.register('ytplayer.command.delrequest.404', 'Song requests do not have a song with an ID of [$1]');
@@ -58,7 +58,7 @@ $.lang.register('ytplayer.command.nextsong.range.404', 'No songs found in that r
 $.lang.register('ytplayer.requestsong.error.maxrequests', 'exceeds maximum concurrent requests');
 $.lang.register('ytplayer.requestsong.error.disabled', 'song requests are disabled');
 $.lang.register('ytplayer.requestsong.error.yterror', 'YouTube error ($1)');
-$.lang.register('ytplayer.requestsong.error.exists', 'song is already in queue');
+$.lang.register('ytplayer.requestsong.error.exists', 'sangen er allerede i køen');
 $.lang.register('ytplayer.requestsong.error.maxlength', 'song length is $1 and exceeds maximum length');
 $.lang.register('ytplayer.command.importpl.file.start', 'Import has started, please wait...');
 $.lang.register('ytplayer.command.importpl.file.success', 'Import Complete! Successfully imported $1 songs and failed to import $2 songs from $3 to playlist $4');
