@@ -40,7 +40,7 @@ $.lang.register('ytplayer.command.songrequest.failed', 'Failed adding song to qu
 $.lang.register('ytplayer.command.previoussong', 'Den forrige sang var [$1] ønsket af $2');
 $.lang.register('ytplayer.command.previoussong.404', 'Der var ingen forrige sang');
 $.lang.register('ytplayer.command.currentsong', 'Nuværende sang er [$1] ønsket af $2');
-$.lang.register('ytplayer.command.currentsong.404', 'There is not a curent song');
+$.lang.register('ytplayer.command.currentsong.404', 'Der bliver ikke afspillet noget i øjeblikket');
 $.lang.register('ytplayer.command.delrequest.success', 'Removed song with ID [$1] and title of [$2] from song requests.');
 $.lang.register('ytplayer.command.delrequest.404', 'Song requests do not have a song with an ID of [$1]');
 $.lang.register('ytplayer.command.delrequest.usage', 'usage: !ytp delrequest [YouTube ID]');
