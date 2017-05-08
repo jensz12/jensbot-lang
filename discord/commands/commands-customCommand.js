@@ -19,8 +19,8 @@ $.lang.register('discord.customcommands.channelcom.usage', 'Usage: !channelcom [
 $.lang.register('discord.customcommands.channelcom.global', 'Command !$1 will now work in every channel.');
 $.lang.register('discord.customcommands.channelcom.success', 'Command !$1 will now only work in channel(s): #$2.');
 $.lang.register('discord.customcommands.channelcom.404', 'No channels are set on that command.');
-$.lang.register('discord.customcommands.commands', 'Se alle kommandoer her https://bot.jensz12.com/vercingerdiscord');
-$.lang.register('discord.customcommands.bot.commands', 'Se alle kommandoer her https://bot.jensz12.com/vercingerdiscord');
+$.lang.register('discord.customcommands.commands', 'Se alle kommandoer her https://bot.jensz12.com/vercinger/discord.php');
+$.lang.register('discord.customcommands.bot.commands', 'Se alle kommandoer her https://bot.jensz12.com/vercinger/discord.php');
 $.lang.register('discord.customcommands.pricecom.usage', 'Usage: !pricecom [command] [amount]');
 $.lang.register('discord.customcommands.pricecom.success', 'Cost for command !$1 has been set to $2.');
 $.lang.register('discord.customcommands.aliascom.usage', 'Usage: !aliascom [alias] [command]');

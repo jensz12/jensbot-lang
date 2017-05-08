@@ -27,7 +27,7 @@ $.lang.register('customcommands.set.pay.error.invalid', 'please enter a valid pa
 $.lang.register('customcommands.set.pay.success', 'the pay for !$1 has been set to $2 $3.');
 $.lang.register('customcommands.set.pay.usage', 'usage: !paycom (command) (price)');
 $.lang.register('customcommands.404.no.commands', 'there are no custom commands, add one with !addcom');
-$.lang.register('customcommands.cmds', 'Du kan se alle commands her: https://bot.jensz12.com/vercinger');
+$.lang.register('customcommands.cmds', 'Du kan se alle commands her: https://bot.jensz12.com/vercinger/twitch.php');
 $.lang.register('customcommands.edit.usage', 'usage: !editcom (command) (message)');
 $.lang.register('customcommands.edit.success', 'command !$1 has been edited!');
 $.lang.register('customcommands.touser.offline', 'Sorry, but $1 appears to be offline!');
