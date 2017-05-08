@@ -1,2 +1,2 @@
 # jensbot-lang
-Jens Bot language filer
+Brug branches til at se lang for de forskellige kanaler
