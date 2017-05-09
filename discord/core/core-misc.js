@@ -1,10 +1,10 @@
-$.lang.register('discord.misc.module.usage', 'Usage: !module [enable / disable / list]');
-$.lang.register('discord.misc.module.enabled', 'Module: $1 er slået til.');
-$.lang.register('discord.misc.module.disabled', 'Module: $1 er slået fra.');
-$.lang.register('discord.misc.module.list', 'Discord Module liste: \r\n $1');
+$.lang.register('discord.misc.module.usage', 'Anvendelse: !module [enable / disable / list]');
+$.lang.register('discord.misc.module.enabled', 'Modul: $1 er slået til.');
+$.lang.register('discord.misc.module.disabled', 'Modul: $1 er slået fra.');
+$.lang.register('discord.misc.module.list', 'Discord Modul liste: \r\n $1');
 $.lang.register('discord.misc.module.404', 'Det modul eksistere ikke: $1');
-$.lang.register('discord.misc.game.set.usage', 'Sådan bruger du kommandoen: !setgame [navn]');
+$.lang.register('discord.misc.game.set.usage', 'Anvendelse: !setgame [navn]');
 $.lang.register('discord.misc.game.set', 'Spil opdateret til: $1');
-$.lang.register('discord.misc.game.stream.set.usage', 'Usage: !setstream [twitch url] [game name]');
-$.lang.register('discord.misc.game.stream.set', 'Bot stream changed to: $1 and game to: $2');
+$.lang.register('discord.misc.game.stream.set.usage', 'Anvendelse: !setstream [twitch url] [spil]');
+$.lang.register('discord.misc.game.stream.set', 'Bot stream ændret til: $1 og spil sat til: $2');
 $.lang.register('discord.misc.game.removed', 'Spil fjernet.');
