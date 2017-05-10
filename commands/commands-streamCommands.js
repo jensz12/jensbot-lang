@@ -13,7 +13,7 @@ $.lang.register('streamcommand.game.no.game', 'Der er ikke valgt et spil.');
 $.lang.register('streamcommand.game.set.usage', 'Anvendelse: !setgame [spil]. Nuværende: $1');
 $.lang.register('streamcommand.viewers', 'I øjeblikket er der $1 seere');
 $.lang.register('streamcommand.online.offline', 'Streamen er offline.');
-$.lang.register('streamcommand.online.online', 'Stream er online.');
+$.lang.register('streamcommand.online.online', 'Streamen er online.');
 $.lang.register('streamcommand.createdat.404', 'Angiv venligst en kanal');
 $.lang.register('streamcommand.createdat.error', 'Kanalen findes ikke eller Twitch har et API problem');
 $.lang.register('streamcommand.createdat', 'Kanal: $1 | Oprettet: $2');

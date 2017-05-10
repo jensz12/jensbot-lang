@@ -1,8 +1,8 @@
-$.lang.register('followhandler.check.follows', '$1 is following the channel.');
-$.lang.register('followhandler.check.notfollows', '$1 is not following the channel.');
-$.lang.register('followhandler.check.usage', 'Usage: !checkfollow [username]');
+$.lang.register('followhandler.check.follows', '$1 følger kanalen.');
+$.lang.register('followhandler.check.notfollows', '$1 følger ikke kanalen.');
+$.lang.register('followhandler.check.usage', 'Anvendelse: !checkfollow [brugernavn]');
 $.lang.register('followhandler.follow.message', '(name) just followed the channel! Here\'s +(reward)!');
-$.lang.register('followhandler.followers', '$1 users are following this channel!');
+$.lang.register('followhandler.followers', '$1 brugere følger denne kanal!');
 $.lang.register('followhandler.followtrain.mega', 'Mega follow train!! ($1)');
 $.lang.register('followhandler.followtrain.penta', 'Penta follow!!');
 $.lang.register('followhandler.followtrain.quad', 'Quadra follow!!');
@@ -28,5 +28,5 @@ $.lang.register('followhandler.fixfollow.added', 'added $1 to the followed list!
 $.lang.register('followhandler.set.followdelay.usage', 'usage: !followdelay [amount in seconds] - Minimum is 5 seconds.');
 $.lang.register('followhandler.set.followdelay.success', 'follow delay set to $1 seconds.');
 $.lang.register('followhandler.follow.age.err.404', '$1 $2 is not following channel $3');
-$.lang.register('followhandler.follow.age.time.days', '$1 $2 has been following channel $3 since $4. ($5 days)');
-$.lang.register('followhandler.follow.age.time', '$1 $2 has been following channel $3 since $4.');
+$.lang.register('followhandler.follow.age.time.days', '$1 du har fulgt $3 siden $4. ($5 dage)');
+$.lang.register('followhandler.follow.age.time', '$1 $2 du har fulgt $3 siden $4.');
