@@ -35,7 +35,7 @@ $.lang.register('ytplayer.command.stealsong.refund', '$1 received a refund of $2
 $.lang.register('ytplayer.command.stealsong.duplicate', 'Song is already in the playlist!');
 $.lang.register('ytplayer.command.jumptosong.failed', 'Cannot find song at position $1 in playlist.');
 $.lang.register('ytplayer.command.songrequest.usage', 'Anvendelse: !songrequest [YouTube link]');
-$.lang.register('ytplayer.command.songrequest.success', 'Din sang "$1" er blevet tilføjet til køen. Den er nummer $2');
+$.lang.register('ytplayer.command.songrequest.success', 'Din sang "$1" er blevet tilføjet til køen. Den er nr. $2');
 $.lang.register('ytplayer.command.songrequest.failed', 'Kunne ikke tilføje din sang til køen. "$1"');
 $.lang.register('ytplayer.command.previoussong', 'Den forrige sang var [$1] ønsket af $2');
 $.lang.register('ytplayer.command.previoussong.404', 'Der var ingen forrige sang');
