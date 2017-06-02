@@ -227,7 +227,7 @@ $.lang.register('cmd.adminonly', 'Kun Jens kan bruge den kommando!');
 $.lang.register('cmd.casteronly', 'Kun Vercinger kan bruge den kommando!');
 $.lang.register('cmd.modonly', 'Kun mods kan bruge den kommando');
 $.lang.register('cmd.needpoints', 'That command costs $1, which you don\'t have.');
-$.lang.register('cmd.perm.404', 'you do not have access to that command. Only $1 or higher can access it.');
+$.lang.register('cmd.perm.404', 'Du har ikke tilladelse til at bruge den kommando. Kun $1 kan bruge den.');
 $.lang.register('commandlist.commands', 'Commands (page $1 of $2): $3');
 $.lang.register('commandlist.more', ' >> Type "!commands $1" for more');
 $.lang.register('commandlist.nocommands', 'There are currently no commands available to you');
