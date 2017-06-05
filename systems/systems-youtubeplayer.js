@@ -66,7 +66,7 @@ $.lang.register('ytplayer.command.importpl.file.success.plerror', 'Import Comple
 $.lang.register('ytplayer.command.importpl.file.404', 'Could not find file $1');
 $.lang.register('ytplayer.command.importpl.file.registry404', 'List $1 was not created in DB, try again.');
 $.lang.register('ytplayer.command.importpl.file.usage', 'Anvendelse: !playlist importpl file [playlist name] [filename]');
-$.lang.register('ytplayer.blacklisted', 'you have been blacklisted from using the songrequest feature.');
+$.lang.register('ytplayer.blacklisted', 'Du er blevet udelukket fra at kunne bruge songrequest.');
 $.lang.register('ytplayer.blacklist.usage', 'Anvendelse: !ytp blacklistuser [add / remove]');
 $.lang.register('ytplayer.blacklist.add.usage', 'Anvendelse: !ytp blacklistuser add [username]');
 $.lang.register('ytplayer.blacklist.add.success', '$1 has been blacklisted from using the songrequests feature.');
@@ -77,7 +77,7 @@ $.lang.register('ytplayer.blacklist.add.usage.song', 'Anvendelse: !ytp blacklist
 $.lang.register('ytplayer.blacklist.add.success.song', 'Song/Keyword: "$1" has been added to the blacklist.');
 $.lang.register('ytplayer.blacklist.remove.usage.song', 'Anvendelse: !ytp blacklist remove [name]');
 $.lang.register('ytplayer.blacklist.remove.success.song', 'Song/Keyword: "$1" has been removed from the blacklist.');
-$.lang.register('ytplayer.blacklist.404', 'Song name has been blacklisted.');
+$.lang.register('ytplayer.blacklist.404', 'Sangen er på blacklisten, og kan derfor ikke ønskes.');
 $.lang.register('ytplayer.command.skip.success', 'Skip requested! Current song will be skipped in $1 more votes.');
 $.lang.register('ytplayer.command.skip.disabled', 'The vote functionality is currently disabled.');
 $.lang.register('ytplayer.command.skip.failure', 'You have already requested a skip for the current song.');
