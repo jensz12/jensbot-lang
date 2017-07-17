@@ -1,4 +1,4 @@
-$.lang.register('raidsystem.raid', 'We raider http://twitch.tv/$1 ! $2');
+$.lang.register('raidsystem.raid', 'Vi raider http://twitch.tv/$1 ! $2');
 $.lang.register('raidsystem.raid.usage', 'Anvendelse: !raid [brugernavn]');
 $.lang.register('raidsystem.raided', 'Vi bliver raided af $1! Dette er $2 gang(e) $1 har raided!');
 $.lang.register('raidsystem.raider.usage', 'Anvendelse: !raider [brugernavn] -- !raider count [brugernavn]');
