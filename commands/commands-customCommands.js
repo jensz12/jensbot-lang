@@ -27,7 +27,7 @@ $.lang.register('customcommands.set.pay.error.invalid', 'please enter a valid pa
 $.lang.register('customcommands.set.pay.success', 'the pay for !$1 has been set to $2 $3.');
 $.lang.register('customcommands.set.pay.usage', 'usage: !paycom (command) (price)');
 $.lang.register('customcommands.404.no.commands', 'there are no custom commands, add one with !addcom');
-$.lang.register('customcommands.cmds', 'Du kan se alle kommandoer her: https://jensbot.dk/vercinger/twitch');
+$.lang.register('customcommands.cmds', 'Du kan se alle kommandoer her: https://jensbot.dk/');
 $.lang.register('customcommands.edit.usage', 'Anvendelse: !editcom (kommando) (besked)');
 $.lang.register('customcommands.edit.success', 'Kommandoen !$1 blev redigeret!');
 $.lang.register('customcommands.touser.offline', 'Sorry, but $1 appears to be offline!');
@@ -41,6 +41,6 @@ $.lang.register('customcommands.enable.usage', 'Anvendelse: !enablecom (kommando
 $.lang.register('customcommands.enable.404', 'Den kommando findes ikke.');
 $.lang.register('customcommands.enable.err', 'Den kommando er ikke slået fra.');
 $.lang.register('customcommands.enable.success', 'Kommandoen !$1 er slået til igen.');
-$.lang.register('customcommands.botcommands', 'Du kan se alle kommandoer her: https://jensbot.dk/vercinger/twitch');
+$.lang.register('customcommands.botcommands', 'Du kan se alle kommandoer her: https://jensbot.dk/');
 $.lang.register('customcommands.botcommands.error', 'Provide a number to find a page.');
-$.lang.register('customcommands.botcommands.total', 'Se følgende sider: https://jensbot.dk/moderator & https://jensbot.dk/vercinger/twitch');
+$.lang.register('customcommands.botcommands.total', 'Se følgende sider: https://jensbot.dk/moderator & https://jensbot.dk/');
