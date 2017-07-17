@@ -1,0 +1,12 @@
+$.lang.register('keywordhandler.add.usage', 'Anvendelse: !keyword add (keyword) (svar)');
+$.lang.register('keywordhandler.keyword.404', 'Keywordet findes ikke.');
+$.lang.register('keywordhandler.keyword.added', 'keyword "$1" blev tilføjet!');
+$.lang.register('keywordhandler.keyword.removed', 'keyword "$1" blev fjernet!');
+$.lang.register('keywordhandler.keyword.usage', 'Anvendelse: !keyword [add / remove / price / cooldown] [keyword]');
+$.lang.register('keywordhandler.remove.usage', 'Anvendelse: !keyword remove [keyword]');
+$.lang.register('keywordhandler.cooldown.usage', 'Anvendelse: !keyword cooldown (keyword) (sekunder) - Brug -1 for ingen cooldown.');
+$.lang.register('keywordhandler.cooldown.removed', 'cooldown for $1 er blevet fjernet.');
+$.lang.register('keywordhandler.cooldown.set', 'cooldown for: $1 er blevet sat til $2 sekunder.');
+$.lang.register('keywordhandler.price.usage', 'Anvendelse: !keyword price (keyword) (pris)');
+$.lang.register('keywordhandler.price.removed', 'prisen for keyword: $1 er blevet fjernet.');
+$.lang.register('keywordhandler.price.set', 'prisen for keyword: $1 er blevet sat til $2.');

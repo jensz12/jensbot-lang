@@ -1,0 +1,10 @@
+$.lang.register('discord.streamhandler.usage', 'Anvendelse: !streamhandler [toggleonline / onlinemessage / togglegame / gamemessage / togglebotstatus / channel]');
+$.lang.register('discord.streamhandler.online.toggle', 'Online annonceringer er blevet $1.');
+$.lang.register('discord.streamhandler.online.message.usage', 'Anvendelse: !streamhandler onlinemessage [besked] - Tags: (name) (url) (game) (title)');
+$.lang.register('discord.streamhandler.online.message.set', 'Online annoncerings beskeen er sat til: $1');
+$.lang.register('discord.streamhandler.game.toggle', 'Spil ændrings annoncering er sat til $1');
+$.lang.register('discord.streamhandler.game.message.usage', 'Anvendelse: !streamhandler gamemessage [besked] - Tags: (name) (url) (game) (title) (uptime)');
+$.lang.register('discord.streamhandler.game.message.set', 'Spil ændrings annoncering er sat til: $1');
+$.lang.register('discord.streamhandler.channel.usage', 'Anvendelse: !streamhandler channel [kanal]');
+$.lang.register('discord.streamhandler.channel.set', 'Stream annonceringer vil nu kun blive delt i #$1');
+$.lang.register('discord.streamhandler.bot.game.toggle', 'Bot stream status er blevet $1.');
