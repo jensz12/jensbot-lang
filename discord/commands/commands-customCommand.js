@@ -19,8 +19,8 @@ $.lang.register('discord.customcommands.channelcom.usage', 'Anvendelse: !channel
 $.lang.register('discord.customcommands.channelcom.global', 'Kommandoen !$1 virker nu i alle kanaler.');
 $.lang.register('discord.customcommands.channelcom.success', 'Kommandoen !$1 virker nu kun i #$2.');
 $.lang.register('discord.customcommands.channelcom.404', 'Ingen kanaler er valgt for den kommando.');
-$.lang.register('discord.customcommands.commands', 'Se alle kommandoer her https://jensbot.dk/vercinger/discord');
-$.lang.register('discord.customcommands.bot.commands', 'Se alle kommandoer her https://jensbot.dk/vercinger/discord');
+$.lang.register('discord.customcommands.commands', 'Se alle kommandoer her https://jensbot.dk/');
+$.lang.register('discord.customcommands.bot.commands', 'Se alle kommandoer her https://jensbot.dk/');
 $.lang.register('discord.customcommands.pricecom.usage', 'Anvendelse: !pricecom [kommando] [antal]');
 $.lang.register('discord.customcommands.pricecom.success', 'Prisen for kommandoen !$1 blev sat til $2.');
 $.lang.register('discord.customcommands.aliascom.usage', 'Anvendelse: !aliascom [alias] [kommando]');
